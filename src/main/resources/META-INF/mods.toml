@@ -1,0 +1,16 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+
+[[mods]]
+modId="helloworld" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="Hello World" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="examplemod.png" #optional
+authors="arrisar" #optional
+description='''
+Long form description
+'''
